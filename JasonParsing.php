@@ -1,5 +1,5 @@
 <?php
-
+# final review
 function getNamesOfPlayers($obj) : array{
     $names = array();
     foreach ($obj->{'players'} as $item) {
